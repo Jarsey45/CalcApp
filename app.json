@@ -2,7 +2,7 @@
   "expo": {
     "name": "calcApp",
     "slug": "calcApp",
-    "version": "1.0.0",
+    "version": "1.0.5",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.jarsey45.calcApp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
